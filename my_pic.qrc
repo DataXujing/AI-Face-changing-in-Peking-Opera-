@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="my_pic">
+    <file>pic/tensorflow.png</file>
+    <file>pic/face.png</file>
+    <file>pic/mask/02.png</file>
+    <file>pic/mask/01.png</file>
+    <file>pic/mask/03.png</file>
+    <file>pic/mask/04.png</file>
+    <file>pic/mask/05.png</file>
+    <file>pic/mask/06.png</file>
+    <file>pic/mask/07.png</file>
+    <file>pic/mask/08.png</file>
+    <file>pic/mask/09.png</file>
+    <file>pic/mask/10.png</file>
+    <file>pic/mask/11.png</file>
+    <file>pic/mask/12.png</file>
+    <file>pic/mask/13.png</file>
+    <file>pic/mask/14.png</file>
+    <file>pic/mask/15.png</file>
+    <file>pic/点击.png</file>
+    <file>pic/脸谱.png</file>
+    <file>pic/识别.png</file>
+    <file>pic/视频.png</file>
+    <file>pic/图片.png</file>
+    <file>pic/图像.png</file>
+    <file>pic/下载 绿色.png</file>
+    <file>pic/右翻页.png</file>
+    <file>pic/左翻页.png</file>
+  </qresource>
+</RCC>
